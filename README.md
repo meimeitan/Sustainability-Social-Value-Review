@@ -8,4 +8,6 @@ This dashboard built for the impact  review analysis on the supplier works based
 4) Apprenticeship
 5) Volunteering
 
+The information provided by the suppliers were evaluated for the accuarcy, completeness and validated based on the compliance required.
+
 ![image](https://user-images.githubusercontent.com/58686831/211331694-dc6a8d3b-863b-4e60-8994-5ddad6429226.png)
